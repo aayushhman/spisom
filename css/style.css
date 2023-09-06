@@ -1,3 +1,77 @@
-body {
-  background-color: lightblue;
+body{ 
+     background: none;
+      }
+      header{
+	height: 130px;
+  border-bottom: 10px solid #d7d7d7;
+
+
+}
+.logo{
+    float: left;
+
+ }
+.contact{
+	float: right;
+	margin-right:-10px;
+}
+.facebookImg{
+	float: right;
+}
+
+.content{
+padding: 10px;
+
+
+}
+.left{
+	float: left;
+	width: 65%;
+	border-right: 1px dotted #000; 
+	padding-right: 20px;
+
+}
+.left p{
+	font-size: 14px;
+}
+.left h3, .right h3{
+color:#06c; 
+
+}
+.right{
+	float: right;
+	width: 30%;
+	border: 
+
+}
+.clc{
+clear: both;
+
+
+}
+footer{
+	background: #044470;
+	height: 40px;
+}
+nav{
+    float: right;
+}
+nav ul{
+     list-style: none;
+     padding-top: 4px;
+}
+nav ul li{
+        float: left;
+}
+nav ul li{
+text-decoration: none;
+padding: 7px  11px;
+background: #036;
+color: #fff;
+border-right:1px  solid  #fff;
+}
+nav ul li:hover
+{
+	background: #d7d7d7;
+	color:red;
 }
