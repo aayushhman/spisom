@@ -63,15 +63,15 @@ nav ul{
 nav ul li{
         float: left;
 }
-nav ul li{
+nav ul li a 
+{
 text-decoration: none;
 padding: 7px  11px;
 background: #036;
 color: #fff;
 border-right:1px  solid  #fff;
 }
-nav ul li:hover
-{
-	background: #d7d7d7;
-	color:red;
+.active a, nav li a:hover
+{background:#d7d7d7; 
+color:red;
 }
