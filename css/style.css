@@ -75,3 +75,62 @@ border-right:1px  solid  #fff;
 {background:#d7d7d7; 
 color:red;
 }
+nav li ul
+{
+    display: none;
+
+}
+nav li: hover ul
+ {
+    display: block;
+
+ }
+ nav li ul li
+ {
+   float: none;
+
+ }
+
+
+
+/***************form**************************/
+
+.form
+{
+	padding: 0 100px;
+}
+
+.fprm input
+{
+
+  width: 180px;
+  height: 30px;
+  margin: 5px 0;
+  border: 1px solid #999;
+
+
+}
+.form textarea
+{
+  width: 180px;
+  margin: 5px 0;
+border: 1px solid #999;
+height: 80px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
